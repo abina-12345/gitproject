@@ -6,6 +6,7 @@ public class GURU {
 		// TODO Auto-generated method stub
 		
 		///AVINASH
+		///magnitia 
 
 	}
 
